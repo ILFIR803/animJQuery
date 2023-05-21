@@ -1,8 +1,8 @@
 $(document).ready(function(){
 
    $('.col-sm-offset-3, .col-sm-3, a[href="#sheldure"]').click(function() {
-      $('.modal').slideDown(1000);
-      $('.overlay').fadeIn(1000);
+      $('.modal').slideDown(1500);
+      $('.overlay').fadeIn(1500);
    });
    
    $('.close').click(function() {
