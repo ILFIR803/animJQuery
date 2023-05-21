@@ -6,8 +6,8 @@ $(document).ready(function(){
    });
    
    $('.close').click(function() {
-      $('.modal').slideUp(1000);
-      $('.overlay').fadeOut(1000);
+      $('.modal').slideUp(700);
+      $('.overlay').fadeOut(700);
    });
    
    // $('.col-sm-3').click(function() {
